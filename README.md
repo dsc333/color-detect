@@ -8,6 +8,6 @@ Default color detected: lime green.
 3. python3 -m venv --system-site-packages env
 4. source env/bin/activate
 5. pip3 install opencv-contrib-python
-6. python3 main
+6. python3 main.py
 7. Press 'q' to quit the program
 8. Type: deactivate when done
