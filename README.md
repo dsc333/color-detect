@@ -1,4 +1,4 @@
-# color detect (RPI)
+# Color detection (RPI)
 Uses a RPI video feed to detect objects of a specified color in real time. 
 Default color detected: lime green. 
 
